@@ -1,4 +1,4 @@
-package gopath
+package main
 
 import "fmt"
 
